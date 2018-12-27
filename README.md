@@ -1,3 +1,3 @@
 # LoopLAB-Social
-A single page Boostrap Theme for starters
-designed conceputialized from UDEMY Course
+A single page Boostrap Theme for starters.
+Design conceputialized from UDEMY Course
